@@ -1,0 +1,12 @@
+.venv/
+.packages/
+__pycache__/
+output/
+.handover/
+.sample-job
+.env
+.env.*
+preview.png
+preview-mobile.png
+dropdown-fix.png
+layout-check.png
